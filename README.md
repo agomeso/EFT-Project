@@ -1,1 +1,3 @@
 # EFT-Project
+
+For our project we decided on books. We used Kaggle as the source of data. We wanted to do Food Trucks as our data but sadly there were no working API keys. So, we switched over to books as all of us on the team liked books and thought that it would be a fun data frame to work with. We had a few issues with getting the data to load into PostG. And mostly stuck into Pandas where it would let us join and merge, while on PostG it kept over writing the data. We normalized the data into three tables. We listed the Tables as Genre, Price, Reviews_and_Ratings as they were the most important part of the data frame and gave the best results. 
